@@ -5,7 +5,7 @@ The goal in this project is to work on my data cleanihng skills using Python:
 
 ## Installation
 
-pip install pandas matplotlib
+pip install pandas matplotlib jupyter notebook
 
 * used matplotlib for future plots
 
